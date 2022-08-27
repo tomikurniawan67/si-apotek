@@ -7,9 +7,9 @@ Requirements :
 Installation :
 - Import data obatalkes_m.sql ke MySQL (pada direktori master_db)
 - Simpan pada directory :
-xampp/htdocs/si-rs/
-laragon/www/si-rs/
+-- xampp/htdocs/si-rs/
+-- laragon/www/si-rs/
 
 Demo Login :
-Username : admin
-Password : 12345
+-- Username : admin
+-- Password : 12345
